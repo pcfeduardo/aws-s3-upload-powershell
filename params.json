@@ -3,7 +3,7 @@
     "secretKey": "secret_key_here",
     "region": "region-here",
     "bucketName": "s3-bucket-here",
-    "filePathList": [
+    "pathsList": [
         "C:\\file_here.txt",
         "C:\\file_here.exe"
     ]
